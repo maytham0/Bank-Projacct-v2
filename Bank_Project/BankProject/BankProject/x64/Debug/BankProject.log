@@ -1,0 +1,11 @@
+﻿  BankProject.cpp
+C:\Users\Technosoft\OneDrive\Desktop\Bank_Project\BankProject\BankProject\FuncionToBankProject.h(28,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Technosoft\OneDrive\Desktop\Bank_Project\BankProject\BankProject\FuncionToBankProject.h(319,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+C:\Users\Technosoft\OneDrive\Desktop\Bank_Project\BankProject\BankProject\FuncionToBankProject.h(360,32): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankProject.cpp')
+  
+  BankProject.vcxproj -> C:\Users\Technosoft\OneDrive\Desktop\Bank_Project\BankProject\x64\Debug\BankProject.exe
